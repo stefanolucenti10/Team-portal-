@@ -1,0 +1,1 @@
+## Documentazione iniziale del progetto
